@@ -1,0 +1,2 @@
+# facial-recognition
+win10下基于opencv库和face_recognition库的摄像头实时人脸识别小应用
